@@ -1,16 +1,16 @@
 <p align="center">
-    <!-- <a href="https://raw.githubusercontent.com/username/f-droid/main/fdroid/repo?fingerprint=XXX">
+    <!-- <a href="https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/main/fdroid/repo?fingerprint=3498776CAED6BFA0D7F4618964A9FFEF12CDF02311D4FA8782975DA825ADE3DC">
         <img src="assets/btn.png" alt="F-Droid repo url button" width="323" height="125"/>
     </a> -->
     <br>
-    <a href="https://raw.githubusercontent.com/cesaryuan/f-droid-repo-template/main/fdroid/repo?fingerprint=4F966AF134F6ABCE6CD01E876D50F5464747E5CC25ED1603B24823498F763275">
+    <a href="https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/main/fdroid/repo?fingerprint=3498776CAED6BFA0D7F4618964A9FFEF12CDF02311D4FA8782975DA825ADE3DC">
         <img src="fdroid/repo/index.png?raw=true" alt="F-Droid repo QR code" width="300" height="300"/>
     </a>
 </p>
 
 URL:
 ```
-https://raw.githubusercontent.com/cesaryuan/f-droid-repo-template/main/fdroid/repo?fingerprint=4F966AF134F6ABCE6CD01E876D50F5464747E5CC25ED1603B24823498F763275
+https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/main/fdroid/repo?fingerprint=3498776CAED6BFA0D7F4618964A9FFEF12CDF02311D4FA8782975DA825ADE3DC
 ```
 
 ## Apps
@@ -18,8 +18,7 @@ https://raw.githubusercontent.com/cesaryuan/f-droid-repo-template/main/fdroid/re
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
-| <a href=""><img src="fdroid/repo/com.x8bit.bitwarden/en-US/icon.png" alt="Bitwarden icon" width="36px" height="36px"></a> | [**Bitwarden**]() | No summary available | 2024.9.0 (19209) |
-| <a href=""><img src="fdroid/repo/com.x8bit.bitwarden.beta/en-US/icon.png" alt="Bitwarden Beta icon" width="36px" height="36px"></a> | [**Bitwarden Beta**]() | No summary available | 2024.9.0 (19209) |
+| <a href="https://github.com/ys1231/appproxy"><img src="fdroid/repo/cn.ys1231.appproxy/en-US/icon.png" alt="appproxy icon" width="36px" height="36px"></a> | [**appproxy**](https://github.com/ys1231/appproxy) | No summary available | v0.0.8 (2008) |
 <!-- end apps table -->
 
 ## Instructions
