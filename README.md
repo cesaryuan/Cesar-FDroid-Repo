@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/main/fdroid/repo?f
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
-| <a href="https://github.com/ys1231/appproxy"><img src="fdroid/repo/cn.ys1231.appproxy/en-US/icon.png" alt="appproxy icon" width="36px" height="36px"></a> | [**appproxy**](https://github.com/ys1231/appproxy) | No summary available | v0.0.8 (2008) |
+| <a href="https://github.com/ys1231/appproxy"><img src="fdroid/repo/cn.ys1231.appproxy/en-US/icon.png" alt="appproxy icon" width="36px" height="36px"></a> | [**appproxy**](https://github.com/ys1231/appproxy) | 基于 Flutter 的 Android VPN 代理工具 Android VPN Proxy Tool Based on Flutter | v0.0.8 (2008) |
 <!-- end apps table -->
 
 ## Instructions
