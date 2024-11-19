@@ -1,0 +1,64 @@
+{
+  "repo": {
+    "address": "https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/main/fdroid/repo",
+    "description": "This is a repository of apps to be used with F-Droid. Applications in this repository are official binaries built by the original application developers and released on the official github pages.",
+    "icon": "icon.png",
+    "name": "My Repository",
+    "timestamp": 1732014385000,
+    "version": 20002
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "added": 1732014370000,
+      "authorName": "ys1231",
+      "categories": [
+        "Development"
+      ],
+      "description": "基于 Flutter 的 Android VPN 代理工具 Android VPN Proxy Tool Based on Flutter\n",
+      "lastUpdated": 1732014370000,
+      "license": "Unknown",
+      "localized": {
+        "en-US": {
+          "phoneScreenshots": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png"
+          ],
+          "whatsNew": "- perf(startup): :zap: #12 Optimize startup speed, 优化启动速度.\n- docs(readme): :fire: Update readme, 更新 README."
+        }
+      },
+      "name": "appproxy",
+      "packageName": "cn.ys1231.appproxy",
+      "sourceCode": "https://github.com/ys1231/appproxy",
+      "suggestedVersionCode": "2008",
+      "suggestedVersionName": "v0.0.8"
+    }
+  ],
+  "packages": {
+    "cn.ys1231.appproxy": [
+      {
+        "added": 1732014370000,
+        "apkName": "cn.ys1231.appproxy_v0.0.8.apk",
+        "hash": "2d56b8537b7f20559c83f3c69c7adfb4f33ce8f86018ac7c7e25d831506ee1a8",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "cn.ys1231.appproxy",
+        "sig": "380d7e058858f7ea5213f97e6ff638f8",
+        "signer": "124727bc379d6df085c5ae74db90d8cf9d8a93e57887e93a54b747d58c0f4b9a",
+        "size": 11677205,
+        "targetSdkVersion": 34,
+        "versionCode": 2008,
+        "versionName": "v0.0.8"
+      }
+    ]
+  }
+}

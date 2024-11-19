@@ -1,0 +1,2 @@
+- perf(startup): :zap: #12 Optimize startup speed, 优化启动速度.
+- docs(readme): :fire: Update readme, 更新 README.

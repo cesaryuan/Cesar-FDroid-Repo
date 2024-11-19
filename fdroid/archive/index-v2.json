@@ -1,0 +1,20 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "My First F-Droid Archive Demo"
+    },
+    "description": {
+      "en-US": "These are the apps that have been archived from the main repo."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "05beccbfec179c59ac05b2a1925bae2734a7d37a7be5257bd4c0bb0857f2eca3",
+        "size": 912
+      }
+    },
+    "address": "https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/main/fdroid/archive",
+    "timestamp": 1732014379000
+  },
+  "packages": {}
+}
