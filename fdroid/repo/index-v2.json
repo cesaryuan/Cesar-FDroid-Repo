@@ -14,16 +14,16 @@
       }
     },
     "address": "https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/main/fdroid/repo",
-    "timestamp": 1732014385000
+    "timestamp": 1732015129000
   },
   "packages": {
     "cn.ys1231.appproxy": {
       "metadata": {
-        "added": 1732014370000,
+        "added": 1732015114000,
         "categories": [
           "Development"
         ],
-        "lastUpdated": 1732014370000,
+        "lastUpdated": 1732015114000,
         "sourceCode": "https://github.com/ys1231/appproxy",
         "screenshots": {
           "phone": {
@@ -60,14 +60,17 @@
         "name": {
           "en-US": "appproxy"
         },
+        "summary": {
+          "en-US": "基于 Flutter 的 Android VPN 代理工具 Android VPN Proxy Tool Based on Flutter"
+        },
         "description": {
-          "en-US": "基于 Flutter 的 Android VPN 代理工具 Android VPN Proxy Tool Based on Flutter\n"
+          "en-US": "# [appproxy](https://github.com/ys1231/appproxy)\n\n## 项目背景\n\n- 在分析app的时候,偶尔需要抓包,尝试了目前比较常见的代理工具\n- `Drony` `Postern` `ProxyDroid` 发现都有一个相同的问题,对于较新的Android系统不太友好,要么app列表显示不正常,或者界面过于复杂,往往设置之后经常会失效,偶然在play上发现一个比较新的代理工具,界面很不错清晰不过对国内用户不友好有些功能需要会员,即使花钱由于不维护或者网络原因,完整的功能无法使用于是在业余时间开发了这个.\n\n## 项目简介\n\n1. 基于flutter和[tun2socks](https://github.com/xjasonlyu/tun2socks) 开发。\n2. [appproxy](https://github.com/ys1231/appproxy) 是一个轻量级的 VPN 代理工具，支持 HTTP, SOCKS5 协议。\n3. 功能单只做代理,可分app代理, **_双击修改配置_** 逻辑比较简单, 主打一个能用就行.\n4. 出于学习熟悉flutter的目的去做的,分享给大家,顺便帮我测试一下.\n5. 加上[MoveCertificate](https://github.com/ys1231/MoveCertificate) 上下游都有了哈哈。\n"
         },
         "preferredSigner": "124727bc379d6df085c5ae74db90d8cf9d8a93e57887e93a54b747d58c0f4b9a"
       },
       "versions": {
         "2d56b8537b7f20559c83f3c69c7adfb4f33ce8f86018ac7c7e25d831506ee1a8": {
-          "added": 1732014370000,
+          "added": 1732015114000,
           "file": {
             "name": "/cn.ys1231.appproxy_v0.0.8.apk",
             "sha256": "2d56b8537b7f20559c83f3c69c7adfb4f33ce8f86018ac7c7e25d831506ee1a8",
