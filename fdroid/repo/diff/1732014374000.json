@@ -1,0 +1,50 @@
+{
+  "repo": {
+    "timestamp": 1732014385000
+  },
+  "packages": {
+    "cn.ys1231.appproxy": {
+      "metadata": {
+        "categories": [
+          "Development"
+        ],
+        "sourceCode": "https://github.com/ys1231/appproxy",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/cn.ys1231.appproxy/en-US/phoneScreenshots/1.png",
+                "sha256": "c849789272d0c99d4845bdb814c2237cef3e3b6254a4c6a0df88b544e7ba2517",
+                "size": 277911
+              },
+              {
+                "name": "/cn.ys1231.appproxy/en-US/phoneScreenshots/2.png",
+                "sha256": "2e71e2ec22f057ad9b82c716a55f8767e35fde26d09a3cae4408344927a95c38",
+                "size": 150334
+              },
+              {
+                "name": "/cn.ys1231.appproxy/en-US/phoneScreenshots/3.png",
+                "sha256": "5c22d8c97b6ee9a2927cf339177a062da8b0eaea0ecbdb8565956db577e1dc69",
+                "size": 117786
+              },
+              {
+                "name": "/cn.ys1231.appproxy/en-US/phoneScreenshots/4.png",
+                "sha256": "cb03e94d7ec6266283afc5ad0f1b08e9fae8f8c6cec02c286626d3c443302985",
+                "size": 139322
+              },
+              {
+                "name": "/cn.ys1231.appproxy/en-US/phoneScreenshots/5.png",
+                "sha256": "0be0c4cb3bfbb41112838f74f526f3865651e714407bdefa40923a306ad88685",
+                "size": 93289
+              }
+            ]
+          }
+        },
+        "authorName": "ys1231",
+        "description": {
+          "en-US": "基于 Flutter 的 Android VPN 代理工具 Android VPN Proxy Tool Based on Flutter\n"
+        }
+      }
+    }
+  }
+}
