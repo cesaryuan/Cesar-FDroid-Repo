@@ -14,16 +14,16 @@
       }
     },
     "address": "https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/main/fdroid/repo",
-    "timestamp": 1732072752000
+    "timestamp": 1732159132000
   },
   "packages": {
     "cn.ys1231.appproxy": {
       "metadata": {
-        "added": 1732072739000,
+        "added": 1732159120000,
         "categories": [
           "Development"
         ],
-        "lastUpdated": 1732072739000,
+        "lastUpdated": 1732159120000,
         "sourceCode": "https://github.com/ys1231/appproxy",
         "screenshots": {
           "phone": {
@@ -70,7 +70,7 @@
       },
       "versions": {
         "2d56b8537b7f20559c83f3c69c7adfb4f33ce8f86018ac7c7e25d831506ee1a8": {
-          "added": 1732072739000,
+          "added": 1732159120000,
           "file": {
             "name": "/cn.ys1231.appproxy_v0.0.8.apk",
             "sha256": "2d56b8537b7f20559c83f3c69c7adfb4f33ce8f86018ac7c7e25d831506ee1a8",
