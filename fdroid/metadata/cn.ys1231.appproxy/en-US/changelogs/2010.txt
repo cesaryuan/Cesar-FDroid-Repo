@@ -1,0 +1,2 @@
+- perf(UI): :zap:  优化启动速度,UI 界面卡顿, Optimize the startup speed, UI interface is stuck
+- Merge pull request #15  feat: remove IP-only validation for hosts to support domain names

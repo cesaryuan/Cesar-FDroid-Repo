@@ -1,0 +1,47 @@
+{
+  "repo": {
+    "timestamp": 1733108350000
+  },
+  "packages": {
+    "cn.ys1231.appproxy": {
+      "metadata": {
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/cn.ys1231.appproxy/en-US/phoneScreenshots/1.png",
+                "sha256": "61b34fad3dd784322da9caf4e04146af1ff051dd1a5ec3066571e67e34f5968a",
+                "size": 277599
+              },
+              {
+                "name": "/cn.ys1231.appproxy/en-US/phoneScreenshots/2.png",
+                "sha256": "a50d25e7dfb03e437b487a68c58afd7722b0328aee9066fa7f96ba5c248ed6cb",
+                "size": 150022
+              },
+              {
+                "name": "/cn.ys1231.appproxy/en-US/phoneScreenshots/3.png",
+                "sha256": "2068cf7f90536c7caf0ebc615997cbb92b3dcb6c70996900f18fe6753f0030e3",
+                "size": 117474
+              },
+              {
+                "name": "/cn.ys1231.appproxy/en-US/phoneScreenshots/4.png",
+                "sha256": "9993a407d89dc86944b5a6d4c310927ed25a54854c0771cbb469592f9e3bd5f7",
+                "size": 139010
+              },
+              {
+                "name": "/cn.ys1231.appproxy/en-US/phoneScreenshots/5.png",
+                "sha256": "5f5975e918844b61f23a1b70f310e885599d9dcdddf390186c812ef964152045",
+                "size": 92977
+              }
+            ]
+          }
+        }
+      },
+      "versions": {
+        "4682348cd5cfa75a860acd8b1a3c1c739d7146d667f972a1023fccb52b9d2489": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}

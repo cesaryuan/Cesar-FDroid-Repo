@@ -14,7 +14,19 @@
       }
     },
     "address": "https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/main/fdroid/repo",
-    "timestamp": 1732159132000
+    "timestamp": 1733108350000,
+    "categories": {
+      "Development": {
+        "name": {
+          "en-US": "Development"
+        }
+      },
+      "fdroid": {
+        "name": {
+          "en-US": "fdroid"
+        }
+      }
+    }
   },
   "packages": {
     "cn.ys1231.appproxy": {
@@ -23,35 +35,35 @@
         "categories": [
           "Development"
         ],
-        "lastUpdated": 1732159120000,
+        "lastUpdated": 1733108338000,
         "sourceCode": "https://github.com/ys1231/appproxy",
         "screenshots": {
           "phone": {
             "en-US": [
               {
                 "name": "/cn.ys1231.appproxy/en-US/phoneScreenshots/1.png",
-                "sha256": "c849789272d0c99d4845bdb814c2237cef3e3b6254a4c6a0df88b544e7ba2517",
-                "size": 277911
+                "sha256": "61b34fad3dd784322da9caf4e04146af1ff051dd1a5ec3066571e67e34f5968a",
+                "size": 277599
               },
               {
                 "name": "/cn.ys1231.appproxy/en-US/phoneScreenshots/2.png",
-                "sha256": "2e71e2ec22f057ad9b82c716a55f8767e35fde26d09a3cae4408344927a95c38",
-                "size": 150334
+                "sha256": "a50d25e7dfb03e437b487a68c58afd7722b0328aee9066fa7f96ba5c248ed6cb",
+                "size": 150022
               },
               {
                 "name": "/cn.ys1231.appproxy/en-US/phoneScreenshots/3.png",
-                "sha256": "5c22d8c97b6ee9a2927cf339177a062da8b0eaea0ecbdb8565956db577e1dc69",
-                "size": 117786
+                "sha256": "2068cf7f90536c7caf0ebc615997cbb92b3dcb6c70996900f18fe6753f0030e3",
+                "size": 117474
               },
               {
                 "name": "/cn.ys1231.appproxy/en-US/phoneScreenshots/4.png",
-                "sha256": "cb03e94d7ec6266283afc5ad0f1b08e9fae8f8c6cec02c286626d3c443302985",
-                "size": 139322
+                "sha256": "9993a407d89dc86944b5a6d4c310927ed25a54854c0771cbb469592f9e3bd5f7",
+                "size": 139010
               },
               {
                 "name": "/cn.ys1231.appproxy/en-US/phoneScreenshots/5.png",
-                "sha256": "0be0c4cb3bfbb41112838f74f526f3865651e714407bdefa40923a306ad88685",
-                "size": 93289
+                "sha256": "5f5975e918844b61f23a1b70f310e885599d9dcdddf390186c812ef964152045",
+                "size": 92977
               }
             ]
           }
@@ -69,6 +81,59 @@
         "preferredSigner": "124727bc379d6df085c5ae74db90d8cf9d8a93e57887e93a54b747d58c0f4b9a"
       },
       "versions": {
+        "4682348cd5cfa75a860acd8b1a3c1c739d7146d667f972a1023fccb52b9d2489": {
+          "added": 1733108338000,
+          "file": {
+            "name": "/cn.ys1231.appproxy_v0.1.3.apk",
+            "sha256": "4682348cd5cfa75a860acd8b1a3c1c739d7146d667f972a1023fccb52b9d2489",
+            "size": 11681284
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "v0.1.3",
+            "versionCode": 2010,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "124727bc379d6df085c5ae74db90d8cf9d8a93e57887e93a54b747d58c0f4b9a"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VPN_SERVICE"
+              },
+              {
+                "name": "cn.ys1231.appproxy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "2d56b8537b7f20559c83f3c69c7adfb4f33ce8f86018ac7c7e25d831506ee1a8": {
           "added": 1732159120000,
           "file": {
@@ -120,6 +185,32 @@
                 "name": "cn.ys1231.appproxy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
+          }
+        }
+      }
+    },
+    "deb7d69bee8f8ce39a14451961e4c412f14a99c204dc976ca2055b27cad4701b": {
+      "metadata": {
+        "added": 1733108338000,
+        "categories": [
+          "fdroid"
+        ],
+        "lastUpdated": 1733108338000,
+        "name": {
+          "en-US": "categories"
+        }
+      },
+      "versions": {
+        "deb7d69bee8f8ce39a14451961e4c412f14a99c204dc976ca2055b27cad4701b": {
+          "added": 1733108338000,
+          "file": {
+            "name": "/categories.txt",
+            "sha256": "deb7d69bee8f8ce39a14451961e4c412f14a99c204dc976ca2055b27cad4701b",
+            "size": 12
+          },
+          "manifest": {
+            "versionName": "deb7d69",
+            "versionCode": 0
           }
         }
       }
