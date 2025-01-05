@@ -1,0 +1,1 @@
+build(tun2socks): :fire: 1. 新增依赖为子模块. 2. 设置 tun2socks 日志级别为 error.

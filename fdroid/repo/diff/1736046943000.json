@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1736046952000
+  },
+  "packages": {
+    "cn.ys1231.appproxy": {
+      "versions": {
+        "905251d1907e7e7a460faca6038a27527042f8e5e5480b4ce8c3e9a35d886c20": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
