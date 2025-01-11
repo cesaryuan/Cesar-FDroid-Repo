@@ -3,6 +3,7 @@ package apps
 import (
 	"context"
 	"fmt"
+	"path/filepath"
 	"strings"
 	"unicode"
 
@@ -18,8 +19,12 @@ func FindAPK(release *github.RepositoryRelease, filename string) *github.Release
 			continue
 		}
 
-		if asset.Name != nil && asset.GetName() == filename {
-			return asset
+		if asset.Name != nil {
+			assetName := asset.GetName()
+			matched, err := filepath.Match(filename, assetName)
+			if err == nil && matched {
+				return asset
+			}
 		}
 	}
 
