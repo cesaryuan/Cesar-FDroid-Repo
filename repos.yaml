@@ -1,5 +1,5 @@
 ---
-android:
+appproxy:
   git: "https://github.com/ys1231/appproxy"
   author_name: "ys1231"
   summary: "基于 Flutter 的 Android VPN 代理工具 Android VPN Proxy Tool Based on Flutter"
@@ -24,3 +24,30 @@ android:
         3. 功能单只做代理,可分app代理, **_双击修改配置_** 逻辑比较简单, 主打一个能用就行.
         4. 出于学习熟悉flutter的目的去做的,分享给大家,顺便帮我测试一下.
         5. 加上[MoveCertificate](https://github.com/ys1231/MoveCertificate) 上下游都有了哈哈。
+
+flclash:
+  git: "https://github.com/chen08209/FlClash"
+  author_name: "chen08209"
+  summary: "A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free."
+  applications:
+    - filename: "FlClash-*-android-arm64-v8a.apk"
+      id: "com.follow.clash"
+      name: "FlClash"
+      categories:
+        - Development
+      description: |
+        ## FlClash
+
+        A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free.
+
+        ## Features
+
+        ✈️ Multi-platform: Android, Windows, macOS and Linux
+
+        💻 Adaptive multiple screen sizes, Multiple color themes available
+
+        💡 Based on Material You Design, [Surfboard](https://github.com/getsurfboard/surfboard)-like UI
+
+        ☁️ Supports data sync via WebDAV
+
+        ✨ Support subscription link, Dark mode
