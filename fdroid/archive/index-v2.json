@@ -14,7 +14,97 @@
       }
     },
     "address": "https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/main/fdroid/archive",
-    "timestamp": 1739070343000
+    "timestamp": 1739156702000,
+    "categories": {
+      "Development": {
+        "name": {
+          "en-US": "Development"
+        }
+      }
+    }
   },
-  "packages": {}
+  "packages": {
+    "com.follow.clash": {
+      "metadata": {
+        "added": 1736579247000,
+        "categories": [
+          "Development"
+        ],
+        "lastUpdated": 1739156691000,
+        "sourceCode": "https://github.com/chen08209/FlClash",
+        "authorName": "chen08209",
+        "name": {
+          "en-US": "FlClash"
+        },
+        "summary": {
+          "en-US": "A multi-platform proxy client based on ClashMeta, simple and easy to use, ope..."
+        },
+        "description": {
+          "en-US": "## FlClash\n\nA multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free.\n\n## Features\n\n✈️ Multi-platform: Android, Windows, macOS and Linux\n\n💻 Adaptive multiple screen sizes, Multiple color themes available\n\n💡 Based on Material You Design, [Surfboard](https://github.com/getsurfboard/surfboard)-like UI\n\n☁️ Supports data sync via WebDAV\n\n✨ Support subscription link, Dark mode\n"
+        },
+        "preferredSigner": "2859e236b6c1c6073773752678c52e8e902a9503ae9beed6729ca999c376841c"
+      },
+      "versions": {
+        "3078d2d8c24041eed45536e52a704b6f61dd2753568dd5aaa8885433bbb09462": {
+          "added": 1736579247000,
+          "file": {
+            "name": "/com.follow.clash_v0.8.72.apk",
+            "sha256": "3078d2d8c24041eed45536e52a704b6f61dd2753568dd5aaa8885433bbb09462",
+            "size": 45094004
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.8.72",
+            "versionCode": 202503101,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "2859e236b6c1c6073773752678c52e8e902a9503ae9beed6729ca999c376841c"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "com.follow.clash.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
 }

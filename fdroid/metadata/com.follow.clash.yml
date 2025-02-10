@@ -1,8 +1,8 @@
 AuthorName: chen08209
 Categories:
     - Development
-CurrentVersion: 0.8.74
-CurrentVersionCode: 202504031
+CurrentVersion: 0.8.76
+CurrentVersionCode: 202504092
 Description: "## FlClash\n\nA multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free.\n\n## Features\n\n✈️ Multi-platform: Android, Windows, macOS and Linux\n\n\U0001F4BB Adaptive multiple screen sizes, Multiple color themes available\n\n\U0001F4A1 Based on Material You Design, [Surfboard](https://github.com/getsurfboard/surfboard)-like UI\n\n☁️ Supports data sync via WebDAV\n\n✨ Support subscription link, Dark mode\n"
 IssueTracker: ""
 Name: FlClash
