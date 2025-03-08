@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1741317521000,
+    "timestamp": 1741402321000,
     "version": 20002,
     "name": "My First F-Droid Archive Demo",
     "icon": "icon.png",
@@ -17,8 +17,8 @@
       "categories": [
         "Development"
       ],
-      "suggestedVersionName": "0.8.78",
-      "suggestedVersionCode": "202505052",
+      "suggestedVersionName": "0.8.79",
+      "suggestedVersionCode": "202505071",
       "description": "## FlClash\n\nA multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free.\n\n## Features\n\n\u2708\ufe0f Multi-platform: Android, Windows, macOS and Linux\n\n\ud83d\udcbb Adaptive multiple screen sizes, Multiple color themes available\n\n\ud83d\udca1 Based on Material You Design, [Surfboard](https://github.com/getsurfboard/surfboard)-like UI\n\n\u2601\ufe0f Supports data sync via WebDAV\n\n\u2728 Support subscription link, Dark mode\n",
       "license": "Unknown",
       "name": "FlClash",
@@ -26,11 +26,74 @@
       "summary": "A multi-platform proxy client based on ClashMeta, simple and easy to use, ope...",
       "added": 1736579247000,
       "packageName": "com.follow.clash",
-      "lastUpdated": 1741231050000
+      "lastUpdated": 1741402308000
     }
   ],
   "packages": {
     "com.follow.clash": [
+      {
+        "added": 1739156691000,
+        "apkName": "com.follow.clash_v0.8.76.apk",
+        "hash": "a099d9e692d552641cb2accb7b3012af279fc3f3ebdd0cec2ffb2231c4b4200e",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.follow.clash",
+        "sig": "01d20204fe36565bf08806d0249b75a9",
+        "signer": "2859e236b6c1c6073773752678c52e8e902a9503ae9beed6729ca999c376841c",
+        "size": 44887722,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "com.follow.clash.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 202504092,
+        "versionName": "0.8.76"
+      },
       {
         "added": 1738638078000,
         "apkName": "com.follow.clash_v0.8.74.apk",

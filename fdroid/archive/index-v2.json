@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/main/fdroid/archive",
-    "timestamp": 1741317521000,
+    "timestamp": 1741402321000,
     "categories": {
       "Development": {
         "name": {
@@ -30,7 +30,7 @@
         "categories": [
           "Development"
         ],
-        "lastUpdated": 1741231050000,
+        "lastUpdated": 1741402308000,
         "sourceCode": "https://github.com/chen08209/FlClash",
         "authorName": "chen08209",
         "name": {
@@ -45,6 +45,65 @@
         "preferredSigner": "2859e236b6c1c6073773752678c52e8e902a9503ae9beed6729ca999c376841c"
       },
       "versions": {
+        "a099d9e692d552641cb2accb7b3012af279fc3f3ebdd0cec2ffb2231c4b4200e": {
+          "added": 1739156691000,
+          "file": {
+            "name": "/com.follow.clash_v0.8.76.apk",
+            "sha256": "a099d9e692d552641cb2accb7b3012af279fc3f3ebdd0cec2ffb2231c4b4200e",
+            "size": 44887722
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.8.76",
+            "versionCode": 202504092,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "2859e236b6c1c6073773752678c52e8e902a9503ae9beed6729ca999c376841c"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "com.follow.clash.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "5b52d2aa8198c56f5bed4b85be28388e8d4f07864d4ff464dda13fe2168d4faa": {
           "added": 1738638078000,
           "file": {
