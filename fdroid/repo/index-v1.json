@@ -4,7 +4,7 @@
     "description": "Some applications I use. Applications in this repository are official binaries built by the original application developers and released on the official github pages.",
     "icon": "icon.png",
     "name": "Cesar F-Droid Repository",
-    "timestamp": 1741575229000,
+    "timestamp": 1741663155000,
     "version": 20002
   },
   "requests": {
@@ -58,18 +58,18 @@
         "Development"
       ],
       "description": "## FlClash\n\nA multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free.\n\n## Features\n\n✈️ Multi-platform: Android, Windows, macOS and Linux\n\n💻 Adaptive multiple screen sizes, Multiple color themes available\n\n💡 Based on Material You Design, [Surfboard](https://github.com/getsurfboard/surfboard)-like UI\n\n☁️ Supports data sync via WebDAV\n\n✨ Support subscription link, Dark mode\n",
-      "lastUpdated": 1741402308000,
+      "lastUpdated": 1741663135000,
       "license": "Unknown",
       "localized": {
         "en-US": {
-          "whatsNew": "- Fix tab delay view issues\n\n- Fix tray action issues\n\n- Fix get profile redirect client ua issues\n\n- Fix proxy card delay view issues\n\n- Add Russian, Japanese adaptation\n\n- Fix some issues\n\n- Update changelog\n\n\u003cdiv align=center\u003e\n\n[![Release Downloads](https://img.shields.io/github/downloads/chen08209/FlClash/v0.8.79/total?style=flat-square\u0026logo=github)](https://img.shields.io/github/downloads/chen08209/FlClash/v0.8.79/)\n\n\u003c/div\u003e\n\n**Download based on your OS:**\n\n\u003cdiv align=left\u003e\n\u003ctable\u003e\n    \u003cthea"
+          "whatsNew": "- Optimize dashboard performance\n\n- Fix some issues\n\n- Fix unselected proxy group delay issues\n\n- Fix asn url issues\n\n- Update changelog\n\n\u003cdiv align=center\u003e\n\n[![Release Downloads](https://img.shields.io/github/downloads/chen08209/FlClash/v0.8.80/total?style=flat-square\u0026logo=github)](https://img.shields.io/github/downloads/chen08209/FlClash/v0.8.80/)\n\n\u003c/div\u003e\n\n**Download based on your OS:**\n\n\u003cdiv align=left\u003e\n\u003ctable\u003e\n    \u003cthead align=left\u003e\n        \u003ctr\u003e\n            \u003cth\u003eOS\u003c/th\u003e\n            \u003cth\u003eDownlo"
         }
       },
       "name": "FlClash",
       "packageName": "com.follow.clash",
       "sourceCode": "https://github.com/chen08209/FlClash",
-      "suggestedVersionCode": "202505071",
-      "suggestedVersionName": "0.8.79",
+      "suggestedVersionCode": "202505101",
+      "suggestedVersionName": "0.8.80",
       "summary": "A multi-platform proxy client based on ClashMeta, simple and easy to use, ope..."
     }
   ],
@@ -129,6 +129,23 @@
     ],
     "com.follow.clash": [
       {
+        "added": 1741663135000,
+        "apkName": "com.follow.clash_v0.8.80.apk",
+        "hash": "e69cf943cd583cbe0a820a8728634972ea60125b7e7aa8bbede978bf1cfb8c78",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.follow.clash",
+        "sig": "01d20204fe36565bf08806d0249b75a9",
+        "signer": "2859e236b6c1c6073773752678c52e8e902a9503ae9beed6729ca999c376841c",
+        "size": 39750820,
+        "targetSdkVersion": 34,
+        "versionCode": 202505101,
+        "versionName": "0.8.80"
+      },
+      {
         "added": 1741402308000,
         "apkName": "com.follow.clash_v0.8.79.apk",
         "hash": "ea3000770e59cab16a8339b58287172d1ac1495d9e8af68cefa4fb19b1d72a59",
@@ -161,23 +178,6 @@
         "targetSdkVersion": 34,
         "versionCode": 202505052,
         "versionName": "0.8.78"
-      },
-      {
-        "added": 1741144599000,
-        "apkName": "com.follow.clash_v0.8.77.apk",
-        "hash": "66d3d53ba363dd7d9a08fe681c815e4f2b875fa9b1984c67b569abdd36690a4b",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a"
-        ],
-        "packageName": "com.follow.clash",
-        "sig": "01d20204fe36565bf08806d0249b75a9",
-        "signer": "2859e236b6c1c6073773752678c52e8e902a9503ae9beed6729ca999c376841c",
-        "size": 45495058,
-        "targetSdkVersion": 34,
-        "versionCode": 202505051,
-        "versionName": "0.8.77"
       }
     ],
     "deb7d69bee8f8ce39a14451961e4c412f14a99c204dc976ca2055b27cad4701b": [
