@@ -4,7 +4,7 @@
     "description": "Some applications I use. Applications in this repository are official binaries built by the original application developers and released on the official github pages.",
     "icon": "icon.png",
     "name": "Cesar F-Droid Repository",
-    "timestamp": 1742008556000,
+    "timestamp": 1742095365000,
     "version": 20002
   },
   "requests": {
@@ -19,7 +19,7 @@
         "Development"
       ],
       "description": "# [appproxy](https://github.com/ys1231/appproxy)\n\n## 项目背景\n\n- 在分析app的时候,偶尔需要抓包,尝试了目前比较常见的代理工具\n- `Drony` `Postern` `ProxyDroid` 发现都有一个相同的问题,对于较新的Android系统不太友好,要么app列表显示不正常,或者界面过于复杂,往往设置之后经常会失效,偶然在play上发现一个比较新的代理工具,界面很不错清晰不过对国内用户不友好有些功能需要会员,即使花钱由于不维护或者网络原因,完整的功能无法使用于是在业余时间开发了这个.\n\n## 项目简介\n\n1. 基于flutter和[tun2socks](https://github.com/xjasonlyu/tun2socks) 开发。\n2. [appproxy](https://github.com/ys1231/appproxy) 是一个轻量级的 VPN 代理工具，支持 HTTP, SOCKS5 协议。\n3. 功能单只做代理,可分app代理, **_双击修改配置_** 逻辑比较简单, 主打一个能用就行.\n4. 出于学习熟悉flutter的目的去做的,分享给大家,顺便帮我测试一下.\n5. 加上[MoveCertificate](https://github.com/ys1231/MoveCertificate) 上下游都有了哈哈。\n",
-      "lastUpdated": 1736046940000,
+      "lastUpdated": 1742095341000,
       "license": "Unknown",
       "localized": {
         "en-US": {
@@ -30,14 +30,14 @@
             "4.png",
             "5.png"
           ],
-          "whatsNew": "build(tun2socks): :fire: 1. 新增依赖为子模块. 2. 设置 tun2socks 日志级别为 error."
+          "whatsNew": "fix(UI): :bug: \n1. 选择需要代理的 app 之后自动置顶. After selecting the app that needs a proxy, it will be automatically pinned to the top.\n2. #20 支持使用中文进行 app 搜索. Support app search in Chinese."
         }
       },
       "name": "appproxy",
       "packageName": "cn.ys1231.appproxy",
       "sourceCode": "https://github.com/ys1231/appproxy",
       "suggestedVersionCode": "2014",
-      "suggestedVersionName": "v0.1.4",
+      "suggestedVersionName": "v0.1.5",
       "summary": "基于 Flutter 的 Android VPN 代理工具 Android VPN Proxy Tool Based on Flutter"
     },
     {
@@ -91,6 +91,23 @@
         "targetSdkVersion": 34,
         "versionCode": 2014,
         "versionName": "v0.1.4"
+      },
+      {
+        "added": 1742095341000,
+        "apkName": "cn.ys1231.appproxy_v0.1.5.apk",
+        "hash": "9fcd60ecdbe47571bd8cced120e554701dbdb70fd657dd604e78bc7552d7c017",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "cn.ys1231.appproxy",
+        "sig": "380d7e058858f7ea5213f97e6ff638f8",
+        "signer": "124727bc379d6df085c5ae74db90d8cf9d8a93e57887e93a54b747d58c0f4b9a",
+        "size": 12677958,
+        "targetSdkVersion": 34,
+        "versionCode": 2014,
+        "versionName": "v0.1.5"
       },
       {
         "added": 1733108338000,

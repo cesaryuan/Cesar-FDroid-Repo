@@ -1,1 +1,3 @@
-build(tun2socks): :fire: 1. 新增依赖为子模块. 2. 设置 tun2socks 日志级别为 error.
+fix(UI): :bug: 
+1. 选择需要代理的 app 之后自动置顶. After selecting the app that needs a proxy, it will be automatically pinned to the top.
+2. #20 支持使用中文进行 app 搜索. Support app search in Chinese.

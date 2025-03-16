@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/main/fdroid/repo",
-    "timestamp": 1742008556000,
+    "timestamp": 1742095365000,
     "categories": {
       "Development": {
         "name": {
@@ -35,7 +35,7 @@
         "categories": [
           "Development"
         ],
-        "lastUpdated": 1736046940000,
+        "lastUpdated": 1742095341000,
         "sourceCode": "https://github.com/ys1231/appproxy",
         "screenshots": {
           "phone": {
@@ -93,6 +93,59 @@
               "arm64-v8a"
             ],
             "versionName": "v0.1.4",
+            "versionCode": 2014,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "124727bc379d6df085c5ae74db90d8cf9d8a93e57887e93a54b747d58c0f4b9a"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VPN_SERVICE"
+              },
+              {
+                "name": "cn.ys1231.appproxy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "9fcd60ecdbe47571bd8cced120e554701dbdb70fd657dd604e78bc7552d7c017": {
+          "added": 1742095341000,
+          "file": {
+            "name": "/cn.ys1231.appproxy_v0.1.5.apk",
+            "sha256": "9fcd60ecdbe47571bd8cced120e554701dbdb70fd657dd604e78bc7552d7c017",
+            "size": 12677958
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "v0.1.5",
             "versionCode": 2014,
             "usesSdk": {
               "minSdkVersion": 21,
